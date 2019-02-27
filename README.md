@@ -1,5 +1,9 @@
 # Geolocation Symbol
 
+![Geolocation 1](https://github.com/agaricide/geolocation/blob/master/images/gps-1.svg)
+![Geolocation 2](https://github.com/agaricide/geolocation/blob/master/images/gps-2.svg)
+![Geolocation 3](https://github.com/agaricide/geolocation/blob/master/images/gps-3.svg)
+
 ## About
 A [symbol](https://vanseodesign.com/web-design/icon-index-symbol/) for the [Position](https://developer.mozilla.org/en-US/docs/Web/API/Position) object returned by the browser [Geolocation API.
 ](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)  Made for the [Dallas Rain Report](https://www.dallasrain.report/) project.
@@ -14,3 +18,4 @@ A [symbol](https://vanseodesign.com/web-design/icon-index-symbol/) for the [Posi
 2. I used a crosshair to convey a point, precision, and the x and y axes
 3. I added a spinning / flashing animation to show the user that work is being done:
 
+![Loading...](https://raw.githubusercontent.com/agaricide/geolocation/master/images/loading.mov)
