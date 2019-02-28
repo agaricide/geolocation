@@ -1,8 +1,9 @@
 # Geolocation Symbol
 
-![Geolocation 1](https://github.com/agaricide/geolocation/blob/master/images/gps-1.svg)
-![Geolocation 2](https://github.com/agaricide/geolocation/blob/master/images/gps-2.svg)
-![Geolocation 3](https://github.com/agaricide/geolocation/blob/master/images/gps-3.svg)
+
+<img src="https://github.com/agaricide/geolocation/blob/master/images/gps-1.svg" alt="Geolocation 1" width="50" height="50">
+<img src="https://github.com/agaricide/geolocation/blob/master/images/gps-2.svg" alt="Geolocation 2" width="50" height="50">
+<img src="https://github.com/agaricide/geolocation/blob/master/images/gps-3.svg" alt="Geolocation 3" width="50" height="50">
 
 ## About
 A [symbol](https://vanseodesign.com/web-design/icon-index-symbol/) for the [Position](https://developer.mozilla.org/en-US/docs/Web/API/Position) object returned by the browser [Geolocation API.
@@ -18,4 +19,4 @@ A [symbol](https://vanseodesign.com/web-design/icon-index-symbol/) for the [Posi
 2. I used a crosshair to convey a point, precision, and the x and y axes
 3. I added a spinning / flashing animation to show the user that work is being done:
 
-![Loading...](https://raw.githubusercontent.com/agaricide/geolocation/master/images/loading.mov)
+![Loading...](https://raw.githubusercontent.com/agaricide/geolocation/master/images/loading.gif)
