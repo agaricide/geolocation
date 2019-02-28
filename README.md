@@ -1,9 +1,9 @@
 # Geolocation Symbol
 
 
-<span><img src="https://github.com/agaricide/geolocation/blob/master/images/gps-1.svg" alt="Geolocation 1" width="50" height="50"></span>
-<span><img src="https://github.com/agaricide/geolocation/blob/master/images/gps-2.svg" alt="Geolocation 2" width="50" height="50"></span>
-<span><img src="https://github.com/agaricide/geolocation/blob/master/images/gps-3.svg" alt="Geolocation 3" width="50" height="50"></span>
+<span><img src="https://github.com/agaricide/geolocation/blob/master/images/gps-1.svg" alt="Geo 1" width="50" height="50"></span>
+<span><img src="https://github.com/agaricide/geolocation/blob/master/images/gps-2.svg" alt="Geo 2" width="50" height="50"></span>
+<span><img src="https://github.com/agaricide/geolocation/blob/master/images/gps-3.svg" alt="Geo 3" width="50" height="50"></span>
 
 ## About
 A [symbol](https://vanseodesign.com/web-design/icon-index-symbol/) for the [Position](https://developer.mozilla.org/en-US/docs/Web/API/Position) object returned by the browser [Geolocation API.
